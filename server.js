@@ -1,6 +1,6 @@
-const http = require('http'); //old way
+const http = require("http"); //old way
 // import http from 'http';
-const app = require('./app');
+const app = require("./index");
 // import app from './app';
 const port = process.env.PORT || 3000;
 const server = http.createServer(app);
