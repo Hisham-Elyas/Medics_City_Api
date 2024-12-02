@@ -38,7 +38,7 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use("/", doctorRoutes);
+app.use("/doctor", doctorRoutes);
 app.use("/appointment", appointmentRoutes);
 app.use("/drugs", drugsprodproductRoutes);
 app.use("/orders", orderRoutes);
