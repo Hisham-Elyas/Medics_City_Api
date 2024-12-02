@@ -12,7 +12,7 @@ const chatsRoutes = require("./api/routes/chates");
 const hospitalRoutes = require("./api/routes/hospital");
 const ambulanceRoutes = require("./api/routes/ambulance");
 const orderRoutes = require("./api/routes/orders");
-doctor;
+// doctor;
 // mongoose.connect(process.env.MONGO_ATLAS_PW,{useMongoClient:true})
 // mongoose.connect("mongodb://localhost:27017/rest_api");
 
