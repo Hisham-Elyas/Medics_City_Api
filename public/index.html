@@ -1,0 +1,146 @@
+
+   
+    <!-- Todo Api
+    <h1>Todo Api</h1>
+    <h2>welcam</h2>
+    <h2>  <style ></style> <a href="/todoapi"  >start</a> </h2> -->
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo API Documentation</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Todo API Documentation</h1>
+    
+        <div class="creator-info">
+            <p>  <i class="fab fa-github fa-lg" style="color: black;"></i>   GitHub: <a href="https://github.com/hishaam6618/Todo_api" target="_blank" class=".github-link">https://github.com/hishaam6618/Todo_api </a></p>
+            <p><i class="fas fa-user" style="color: white "></i> Created by: <span class="creator-name">Hisham 👨‍💻😎 </span> </i></p>
+        </div>
+    </header>
+    <div class="container">
+        <section>
+          <a href="/todoApi"><h2>GET /todoApi</h2></a>  
+            <p>Retrieves a list of all todos.</p>
+            <h3>Parameters</h3>
+            <ul>
+                <li><strong>None</strong></li>
+            </ul>
+            <h3>Response</h3>
+            <pre>
+
+       
+
+        count: 3,
+          item: [
+          {
+            "_id": "65ef96780fe0ed292bc90431",
+            "title": " Todo 1",
+            "description": "Example Todo 1",
+            stautus:"pending"
+            "date": "2014-12-02T21:00:00.000Z",
+        },
+        {
+            "_id": "65ef996706948e4c89f5059d",
+            "title": " Todo 2",
+            "description": "Example Todo 2",
+            stautus:"completed"
+            "date": "2014-12-02T21:00:00.000Z",
+        },
+        {
+            "_id": "65ef9bc250dd71a4e2d04643",
+            "title": " Todo 3",
+            "description": "Example Todo 3",
+            stautus:"canceled"
+            "date": "2014-12-02T21:00:00.000Z",
+        }
+          ]
+            
+            </pre>
+        </section>
+      
+        <section>
+            <h2>POST /todoapi</h2>
+            <p>Creates a new todo.</p>
+            <h3>Parameters in body</h3>
+            <ul>
+                <li><strong>title</strong> (string): The title of the todo.</li>
+                <li><strong>description</strong> (string): The description of the todo.</li>
+                <li><strong>stautus</strong> (string): The stautus of the todo.</li>
+            </ul>
+            <h3>Response</h3>
+            <pre>
+                "item":     {
+                    "title": " Todo 4",
+                    "description": "Example Todo 4",
+                    stautus:"pending"
+                }
+            </pre>
+        </section>
+        <section>
+            <h2>PATCH /todoapi/$itemId</h2>
+            <p>update a todo.</p>
+            <h3>Parameters in url</h3>
+            <li><strong>itemId</strong> (string): The id of the todo.</li>
+            <h3>Parameters in body</h3>
+            <ul>
+                <li><strong>title</strong> (string): The title of the todo.</li>
+                <li><strong>description</strong> (string): The description of the todo.</li>
+                <li><strong>stautus</strong> (string): The stautus of the todo.</li>
+            </ul>
+            <h3>Response</h3>
+            <pre>
+                "item":     {
+                    "_id": "65ef9bc250dd71a4e2d04643",
+                    "title": " Todo 5",
+                    "description": "Example Todo 4 ",
+                    stautus:"pending"
+                }
+            </pre>
+        </section>
+        <section>
+            <h2> DELEAE  /toDoApi/$itemId</h2>
+            <p>DELEAE a todo.</p>
+            <h3>Parameters in url</h3>
+            <ul>
+                <li><strong>itemId</strong> (string): The id of the todo.</li>
+                
+            </ul>
+            <h3>Response</h3>
+            <pre>
+                {
+                    message: "item delete",
+                }
+            </pre>
+        </section>
+        <section>
+            <h2> GET  /todoapi/$itemId</h2>
+            <p>Find a todo by Id.</p>
+            <h3>Parameters in url</h3>
+            <ul>
+                <li><strong>itemId</strong> (string): The id of the todo.</li>
+                
+            </ul>
+            <h3>Response</h3>
+            <pre>
+               "item": {
+                    "_id": "65ef9bc250dd71a4e2d04643",
+                    "title": " Todo 3",
+                    "description": "Example Todo 3",
+                    stautus:"canceled"
+                    "date": "2014-12-02T21:00:00.000Z",
+                }
+            </pre>
+        </section>
+       
+        <!-- Add more sections for other API methods as needed -->
+    </div>
+</body>
+</html>
+
+  

@@ -46,10 +46,13 @@ app.use("/chats", chatsRoutes);
 app.use("/hospitals", hospitalRoutes);
 app.use("/ambulance", ambulanceRoutes);
 
+// app.use((req, res, next) => {
+//   const error = new Error("Not Found");
+//   error.status = 404;
+//   next(error);
+// });
 app.use((req, res, next) => {
-  const error = new Error("Not Found");
-  error.status = 404;
-  next(error);
+  fs.createReadStream(__dirname + "/public/index.html").pipe(res);
 });
 app.use((error, req, res, next) => {
   res.status(error.status || 500);
