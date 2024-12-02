@@ -54,13 +54,13 @@ app.use((req, res, next) => {
 // app.use((req, res, next) => {
 //   fs.createReadStream(__dirname + "/public/index.html").pipe(res);
 // });
-// app.use((error, req, res, next) => {
-//   res.status(error.status || 500);
-//   res.json({
-//     error: {
-//       message: error.message,
-//     },
-//   });
-// });
+app.use((error, req, res, next) => {
+  res.status(error.status || 500);
+  res.json({
+    error: {
+      message: error.message,
+    },
+  });
+});
 
 module.exports = app;
