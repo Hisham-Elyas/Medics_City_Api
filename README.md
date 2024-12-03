@@ -1,9 +1,16 @@
 **Api 💨** *https://medics-city-api.vercel.app*
 
-✅ **/doctor**
-✅ **/appointment**
 ✅ **/drugs**
+
 ✅ **/orders**
+
+✅ **/doctor**
+
+✅ **/appointment**
+
 ✅ **/chats**
+
 ✅ **/hospitals**
+
 ✅ **/ambulance**
+
