@@ -1,0 +1,162 @@
+[
+  {
+    "league": "LaLiga",
+    "homeTeam": "Espanyol",
+    "awayTeam": "Valladolid",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/4481690370529.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4491724084879.png",
+    "time": "10:00 pm",
+    "matchDate": "Friday 17-01-2025",
+    "matchTime": "10:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 3",
+        "Commentator": "Abdallah Alghamedi"
+      },
+      {
+        "Channel": "Bein Sport 3",
+        "Commentator": "Abdallah Alghamedi"
+      }
+    ]
+  },
+  {
+    "league": "Serie A",
+    "homeTeam": "Roma",
+    "awayTeam": "Genoa",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/1271705512779.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/1891690283004.png",
+    "time": "09:45 pm",
+    "matchDate": "Friday 17-01-2025",
+    "matchTime": "09:45 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "AD Sports Premium 1",
+        "Commentator": "Ahmed kher"
+      },
+      {
+        "Channel": "STC TV App",
+        "Commentator": "Ahmed kher"
+      }
+    ]
+  },
+  {
+    "league": "Bundesliga",
+    "homeTeam": "Frankfurt",
+    "awayTeam": "Dortmund",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/231690288818.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4201690288818.png",
+    "time": "09:30 pm",
+    "matchDate": "Friday 17-01-2025",
+    "matchTime": "09:30 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 5",
+        "Commentator": "Mohamed Barakat"
+      },
+      {
+        "Channel": "Bein Sport 5",
+        "Commentator": "Mohamed Barakat"
+      }
+    ]
+  },
+  {
+    "league": "Ligue 1",
+    "homeTeam": "Montpellier",
+    "awayTeam": "Monaco",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/691720799295.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/3861690287583.png",
+    "time": "08:00 pm",
+    "matchDate": "Friday 17-01-2025",
+    "matchTime": "08:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 4",
+        "Commentator": "Noffal Bachi"
+      },
+      {
+        "Channel": "Bein Sport 4",
+        "Commentator": "Noffal Bachi"
+      }
+    ]
+  },
+  {
+    "league": "Ligue 1",
+    "homeTeam": "Lille",
+    "awayTeam": "Nice",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/381690287334.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7361690287672.png",
+    "time": "10:05 pm",
+    "matchDate": "Friday 17-01-2025",
+    "matchTime": "10:05 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "beIN Sport 1",
+        "Commentator": "Muhammad Al-Mabrouki"
+      },
+      {
+        "Channel": "beIN Sport 1",
+        "Commentator": "Muhammad Al-Mabrouki"
+      }
+    ]
+  },
+  {
+    "league": "Saudi League",
+    "homeTeam": "Al Khaleej",
+    "awayTeam": "Al-Orobah",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/7451690299071.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7961724280670.png",
+    "time": "03:15 pm",
+    "matchDate": "Friday 17-01-2025",
+    "matchTime": "03:15 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "SSC 1 HD",
+        "Commentator": "Issa al-Harbain"
+      },
+      {
+        "Channel": "SSC 5 HD",
+        "Commentator": "Issa al-Harbain"
+      }
+    ]
+  },
+  {
+    "league": "Saudi League",
+    "homeTeam": "Al-Wehda",
+    "awayTeam": "Al-Qadsiah",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/6451690292495.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6611724280721.png",
+    "time": "05:40 pm",
+    "matchDate": "Friday 17-01-2025",
+    "matchTime": "05:40 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "SSC Extra 1 HD",
+        "Commentator": "Saad Yahya"
+      },
+      {
+        "Channel": "SSC Extra 1 SD",
+        "Commentator": "Abdul Aziz Al-Zaid"
+      }
+    ]
+  },
+  {
+    "league": "Saudi League",
+    "homeTeam": "Al-Taawoun",
+    "awayTeam": "Al Nassr FC",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9971724321815.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/2061724329202.png",
+    "time": "07:00 pm",
+    "matchDate": "Friday 17-01-2025",
+    "matchTime": "07:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "SSC 1 HD",
+        "Commentator": "Mishary Al-Qarni"
+      },
+      {
+        "Channel": "SSC 5 HD",
+        "Commentator": "Muhammad Hussain"
+      }
+    ]
+  }
+]

@@ -11,6 +11,7 @@ const drugsprodproductRoutes = require("./api/routes/drugsprod");
 const chatsRoutes = require("./api/routes/chates");
 const hospitalRoutes = require("./api/routes/hospital");
 const ambulanceRoutes = require("./api/routes/ambulance");
+const today_matchesRoutes = require("./api/routes/today_matches");
 const orderRoutes = require("./api/routes/orders");
 // doctor;
 // mongoose.connect(process.env.MONGO_ATLAS_PW,{useMongoClient:true})
@@ -45,6 +46,7 @@ app.use("/orders", orderRoutes);
 app.use("/chats", chatsRoutes);
 app.use("/hospitals", hospitalRoutes);
 app.use("/ambulance", ambulanceRoutes);
+app.use("/today_matches", today_matchesRoutes);
 
 app.use((req, res, next) => {
   const error = new Error("Not Found 404 Home");
