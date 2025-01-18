@@ -1,13 +1,549 @@
 [
   {
-    "matchLink": "https://www.ysscores.com/en/match/4506947/Espanyol-vs-Real-Valladolid",
+    "matchLink": "https://www.ysscores.com/en/match/4506524/Brentford-vs-Liverpool",
+    "league": "Premier League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/3411694791422.png",
+    "homeTeam": "Brentford",
+    "awayTeam": "Liverpool",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4081724601375.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/4791690118957.png",
+    "time": "Time not available",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "beIN Sport 1"
+        },
+        {
+          "title": "Commentator",
+          "content": "Ali Muhammad Ali"
+        },
+        {
+          "title": "Championship",
+          "content": "Premier League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 22"
+        },
+        {
+          "title": "First Leg",
+          "content": "Liverpool 2\n                                                    -0 Brentford"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Gtech Community Stadium"
+        },
+        {
+          "title": "Channel",
+          "content": "beIN Sport 1"
+        },
+        {
+          "title": "Commentator",
+          "content": "Ali Muhammad Ali"
+        },
+        {
+          "title": "Match Time",
+          "content": "05:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        },
+        {
+          "title": "Referee",
+          "content": "Andrew Madley"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Nick Hopton"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Craig Taylor"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Farai Hallam"
+        },
+        {
+          "title": "Var referee",
+          "content": "Paul Tierney"
+        },
+        {
+          "title": "Var referee",
+          "content": "Dan Robathan"
+        }
+      ],
+      "channelsAndCommentators": [
+        {
+          "channel": "Referee",
+          "commentator": "Andrew Madley"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Nick Hopton"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Craig Taylor"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Farai Hallam"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Paul Tierney"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Dan Robathan"
+        }
+      ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4506528/Leicester-City-vs-Fulham",
+    "league": "Premier League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/3411694791422.png",
+    "homeTeam": "Leicester",
+    "awayTeam": "Fulham",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4711690118927.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/5531690711879.png",
+    "time": "Time not available",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "Bein Sport 2"
+        },
+        {
+          "title": "Commentator",
+          "content": "Noffal Bachi"
+        },
+        {
+          "title": "Championship",
+          "content": "Premier League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 22"
+        },
+        {
+          "title": "First Leg",
+          "content": "Fulham 2\n                                                    -1 Leicester"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "King Power Stadium"
+        },
+        {
+          "title": "Channel",
+          "content": "Bein Sport 2"
+        },
+        {
+          "title": "Commentator",
+          "content": "Noffal Bachi"
+        },
+        {
+          "title": "Match Time",
+          "content": "05:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        },
+        {
+          "title": "Referee",
+          "content": "Michael Salisbury"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Wade Smith"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Derek Eaton"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Andrew Kitchen"
+        },
+        {
+          "title": "Var referee",
+          "content": "Graham Scott"
+        },
+        {
+          "title": "Var referee",
+          "content": "Simon Bennett"
+        }
+      ],
+      "channelsAndCommentators": [
+        {
+          "channel": "Referee",
+          "commentator": "Michael Salisbury"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Wade Smith"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Derek Eaton"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Andrew Kitchen"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Graham Scott"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Simon Bennett"
+        }
+      ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4506532/West-Ham-United-vs-Crystal-Palace",
+    "league": "Premier League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/3411694791422.png",
+    "homeTeam": "West Ham",
+    "awayTeam": "Crystal Palace",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6121690118883.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/7191690118603.png",
+    "time": "Time not available",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "beIN Sports Xtra 2"
+        },
+        {
+          "title": "Commentator",
+          "content": "Samir Al-Yaqoubi"
+        },
+        {
+          "title": "Championship",
+          "content": "Premier League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 22"
+        },
+        {
+          "title": "First Leg",
+          "content": "Crystal Palace 0\n                                                    -2 West Ham"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "London Stadium"
+        },
+        {
+          "title": "Channel",
+          "content": "beIN Sports Xtra 2"
+        },
+        {
+          "title": "Commentator",
+          "content": "Samir Al-Yaqoubi"
+        },
+        {
+          "title": "Match Time",
+          "content": "05:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        },
+        {
+          "title": "Referee",
+          "content": "Thomas Bramall"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Ian Hussin"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "James Mainwaring"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Oliver Langford"
+        },
+        {
+          "title": "Var referee",
+          "content": "Alex Chilowicz"
+        },
+        {
+          "title": "Var referee",
+          "content": "Matthew Wilkes"
+        }
+      ],
+      "channelsAndCommentators": [
+        {
+          "channel": "Referee",
+          "commentator": "Thomas Bramall"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Ian Hussin"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "James Mainwaring"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Oliver Langford"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Alex Chilowicz"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Matthew Wilkes"
+        }
+      ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4506530/Newcastle-United-vs-AFC-Bournemouth",
+    "league": "Premier League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/3411694791422.png",
+    "homeTeam": "Newcastle",
+    "awayTeam": "Bournemouth",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7651690118769.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3721690119405.png",
+    "time": "1\n                                                                -\n                                                                4",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "beIN Sport 1"
+        },
+        {
+          "title": "Commentator",
+          "content": "Abdallah Alghamedi"
+        },
+        {
+          "title": "Championship",
+          "content": "Premier League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 22"
+        },
+        {
+          "title": "First Leg",
+          "content": "Bournemouth 1\n                                                    -1 Newcastle"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "St James' Park"
+        },
+        {
+          "title": "Channel",
+          "content": "beIN Sport 1"
+        },
+        {
+          "title": "Commentator",
+          "content": "Abdallah Alghamedi"
+        },
+        {
+          "title": "Match Time",
+          "content": "02:30 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        },
+        {
+          "title": "Referee",
+          "content": "Stuart Attwell"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Constantine Hatzidakis"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Natalie Aspinall"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Dean Whitestone"
+        },
+        {
+          "title": "Var referee",
+          "content": "Peter Bankes"
+        },
+        {
+          "title": "Var referee",
+          "content": "Stuart Burt"
+        }
+      ],
+      "channelsAndCommentators": [
+        {
+          "channel": "Referee",
+          "commentator": "Stuart Attwell"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Constantine Hatzidakis"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Natalie Aspinall"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Dean Whitestone"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Peter Bankes"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Stuart Burt"
+        }
+      ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4506523/Arsenal-vs-Aston-Villa",
+    "league": "Premier League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/3411694791422.png",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Aston Villa",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9921723414870.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/1701690118820.png",
+    "time": "07:30 pm",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "beIN Sport 1",
+          "content": "Hassan Aidaroos"
+        },
+        {
+          "title": "beIN 4K",
+          "content": "Hassan Aidaroos"
+        },
+        {
+          "title": "Championship",
+          "content": "Premier League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 22"
+        },
+        {
+          "title": "First Leg",
+          "content": "Aston Villa 0\n                                                    -2 Arsenal"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Emirates Stadium"
+        },
+        {
+          "title": "Match Time",
+          "content": "07:30 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        },
+        {
+          "title": "beIN Sport 1",
+          "content": "Hassan Aidaroos"
+        },
+        {
+          "title": "beIN 4K",
+          "content": "Hassan Aidaroos"
+        },
+        {
+          "title": "Referee",
+          "content": "Chris Kavanagh"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Lee Betts"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Neil Davies"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "John Busby"
+        },
+        {
+          "title": "Var referee",
+          "content": "John Brooks"
+        },
+        {
+          "title": "Var referee",
+          "content": "Darren Cann"
+        }
+      ],
+      "channelsAndCommentators": [
+        {
+          "channel": "beIN Sport 1",
+          "commentator": "Hassan Aidaroos"
+        },
+        {
+          "channel": "beIN 4K",
+          "commentator": "Hassan Aidaroos"
+        },
+        {
+          "channel": "beIN Sport 1",
+          "commentator": "Hassan Aidaroos"
+        },
+        {
+          "channel": "beIN 4K",
+          "commentator": "Hassan Aidaroos"
+        },
+        {
+          "channel": "Referee",
+          "commentator": "Chris Kavanagh"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Lee Betts"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Neil Davies"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "John Busby"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "John Brooks"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Darren Cann"
+        }
+      ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4506949/Leganes-vs-Atletico-Madrid",
     "league": "LaLiga",
     "leagueLogo": "https://imgs.ysscores.com/championship/48/8641690196626.png",
-    "homeTeam": "Espanyol",
-    "awayTeam": "Valladolid",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4491724084879.png",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/4481690370529.png",
-    "time": "10:00 pm",
+    "homeTeam": "Leganes",
+    "awayTeam": "Atlético",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/1431719588699.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/8211690370509.png",
+    "time": "Time not available",
     "details": {
       "matchInfo": [
         {
@@ -16,7 +552,7 @@
         },
         {
           "title": "Commentator",
-          "content": "Abdallah Alghamedi"
+          "content": "Basem Al-Zeer"
         },
         {
           "title": "Championship",
@@ -28,11 +564,11 @@
         },
         {
           "title": "First Leg",
-          "content": "Valladolid 1\n                                                    -0 Espanyol"
+          "content": "Atlético 3\n                                                    -1 Leganes"
         },
         {
           "title": "Match Stadium",
-          "content": "RCDE Stadium"
+          "content": "Estadio Butarque"
         },
         {
           "title": "Channel",
@@ -40,31 +576,135 @@
         },
         {
           "title": "Commentator",
-          "content": "Abdallah Alghamedi"
+          "content": "Basem Al-Zeer"
         },
         {
           "title": "Match Time",
-          "content": "10:00 pm"
+          "content": "05:15 pm"
         },
         {
           "title": "Match Date",
-          "content": "Friday 17-01-2025"
+          "content": "Saturday 18-01-2025"
         },
         {
           "title": "Referee",
-          "content": "Ricardo De Burgos"
+          "content": "Mario Melero"
         },
         {
           "title": "Assistant referee",
-          "content": "Iker De Francisco"
+          "content": "Jose Luis Martinez"
         },
         {
           "title": "Assistant referee",
-          "content": "Asier Perez"
+          "content": "Jose Garcia"
         },
         {
           "title": "Assistant referee",
-          "content": "Alvaro Rodriguez"
+          "content": "Alejandro Morilla"
+        },
+        {
+          "title": "Var referee",
+          "content": "Jorge Figueroa"
+        },
+        {
+          "title": "Var referee",
+          "content": "Jesus Gil"
+        }
+      ],
+      "channelsAndCommentators": [
+        {
+          "channel": "Referee",
+          "commentator": "Mario Melero"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Jose Luis Martinez"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Jose Garcia"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Alejandro Morilla"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Jorge Figueroa"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Jesus Gil"
+        }
+      ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4506945/Girona-vs-Sevilla",
+    "league": "LaLiga",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/8641690196626.png",
+    "homeTeam": "Girona",
+    "awayTeam": "Sevilla",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6931690196743.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3151690196742.png",
+    "time": "1\n                                                                -\n                                                                2",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "Bein Sport 3"
+        },
+        {
+          "title": "Commentator",
+          "content": "Hassan Aidaroos"
+        },
+        {
+          "title": "Championship",
+          "content": "LaLiga"
+        },
+        {
+          "title": "Round",
+          "content": "Round 20"
+        },
+        {
+          "title": "First Leg",
+          "content": "Sevilla 0\n                                                    -2 Girona"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Estadi Municipal de Montilivi"
+        },
+        {
+          "title": "Channel",
+          "content": "Bein Sport 3"
+        },
+        {
+          "title": "Commentator",
+          "content": "Hassan Aidaroos"
+        },
+        {
+          "title": "Match Time",
+          "content": "03:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        },
+        {
+          "title": "Referee",
+          "content": "Juan Martinez"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Raul Cabanero"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Miguel Martinez"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Francisco Ortega"
         },
         {
           "title": "Var referee",
@@ -72,25 +712,25 @@
         },
         {
           "title": "Var referee",
-          "content": "Carlos del Cerro"
+          "content": "Jose Sanchez"
         }
       ],
       "channelsAndCommentators": [
         {
           "channel": "Referee",
-          "commentator": "Ricardo De Burgos"
+          "commentator": "Juan Martinez"
         },
         {
           "channel": "Assistant referee",
-          "commentator": "Iker De Francisco"
+          "commentator": "Raul Cabanero"
         },
         {
           "channel": "Assistant referee",
-          "commentator": "Asier Perez"
+          "commentator": "Miguel Martinez"
         },
         {
           "channel": "Assistant referee",
-          "commentator": "Alvaro Rodriguez"
+          "commentator": "Francisco Ortega"
         },
         {
           "channel": "Var referee",
@@ -98,29 +738,601 @@
         },
         {
           "channel": "Var referee",
-          "commentator": "Carlos del Cerro"
+          "commentator": "Jose Sanchez"
         }
       ]
     }
   },
   {
-    "matchLink": "https://www.ysscores.com/en/match/4535329/Roma-vs-Genoa",
+    "matchLink": "https://www.ysscores.com/en/match/4506954/Real-Betis-vs-Deportivo-Alaves",
+    "league": "LaLiga",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/8641690196626.png",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Alaves",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/2381690196746.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9221690196745.png",
+    "time": "07:30 pm",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "Bein Sport 3"
+        },
+        {
+          "title": "Commentator",
+          "content": "Mohamed Barakat"
+        },
+        {
+          "title": "Championship",
+          "content": "LaLiga"
+        },
+        {
+          "title": "Round",
+          "content": "Round 20"
+        },
+        {
+          "title": "First Leg",
+          "content": "Alaves 0\n                                                    -0 Real Betis"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Estadio Benito Villamarin"
+        },
+        {
+          "title": "Channel",
+          "content": "Bein Sport 3"
+        },
+        {
+          "title": "Commentator",
+          "content": "Mohamed Barakat"
+        },
+        {
+          "title": "Match Time",
+          "content": "07:30 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        },
+        {
+          "title": "Referee",
+          "content": "Alejandro Hernandez"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Jose Naranjo"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Marcos Cerdan"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Victor Perez"
+        },
+        {
+          "title": "Var referee",
+          "content": "Javier Iglesias"
+        },
+        {
+          "title": "Var referee",
+          "content": "Jorge Bueno"
+        }
+      ],
+      "channelsAndCommentators": [
+        {
+          "channel": "Referee",
+          "commentator": "Alejandro Hernandez"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Jose Naranjo"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Marcos Cerdan"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Victor Perez"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Javier Iglesias"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Jorge Bueno"
+        }
+      ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4506950/Getafe-vs-Barcelona",
+    "league": "LaLiga",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/8641690196626.png",
+    "homeTeam": "Getafe",
+    "awayTeam": "Barcelona",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9541690196746.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3451691957863.png",
+    "time": "10:00 pm",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "beIN Sport 1"
+        },
+        {
+          "title": "Commentator",
+          "content": "Ali Saeed Al Kaabi"
+        },
+        {
+          "title": "Championship",
+          "content": "LaLiga"
+        },
+        {
+          "title": "Round",
+          "content": "Round 20"
+        },
+        {
+          "title": "First Leg",
+          "content": "Barcelona 1\n                                                    -0 Getafe"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Coliseum"
+        },
+        {
+          "title": "Channel",
+          "content": "beIN Sport 1"
+        },
+        {
+          "title": "Commentator",
+          "content": "Ali Saeed Al Kaabi"
+        },
+        {
+          "title": "Match Time",
+          "content": "10:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        },
+        {
+          "title": "Referee",
+          "content": "Pablo Gonzalez"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Israel Barcena"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Ruben Porras"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Jorge Tarraga"
+        },
+        {
+          "title": "Var referee",
+          "content": "Francisco Jose Hernandez"
+        },
+        {
+          "title": "Var referee",
+          "content": "Abraham Perez"
+        }
+      ],
+      "channelsAndCommentators": [
+        {
+          "channel": "Referee",
+          "commentator": "Pablo Gonzalez"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Israel Barcena"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Ruben Porras"
+        },
+        {
+          "channel": "Assistant referee",
+          "commentator": "Jorge Tarraga"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Francisco Jose Hernandez"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Abraham Perez"
+        }
+      ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4653872/Young-Africans-vs-MC-Alger",
+    "league": "CAF Champions League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/5061696621582.png",
+    "homeTeam": "Young Africans",
+    "awayTeam": "MC Alger",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7391693665631.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/2951692283216.png",
+    "time": "0\n                                                                -\n                                                                0",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "Bein Sport 6"
+        },
+        {
+          "title": "Commentator",
+          "content": "Hafeez Darraji"
+        },
+        {
+          "title": "Championship",
+          "content": "CAF Champions League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 6"
+        },
+        {
+          "title": "First Leg",
+          "content": "MC Alger 2\n                                                    -0 Young Africans"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Benjamin Mkapa Stadium"
+        },
+        {
+          "title": "Channel",
+          "content": "Bein Sport 6"
+        },
+        {
+          "title": "Commentator",
+          "content": "Hafeez Darraji"
+        },
+        {
+          "title": "Match Time",
+          "content": "03:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        }
+      ],
+      "channelsAndCommentators": []
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4653891/TP-Mazembe-vs-Al-Hilal-Omdurman",
+    "league": "CAF Champions League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/5061696621582.png",
+    "homeTeam": "TP Mazembe",
+    "awayTeam": "Al Hilal",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9571692282425.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/8981694715382.png",
+    "time": "4\n                                                                -\n                                                                0",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "Bein Sport 4"
+        },
+        {
+          "title": "Commentator",
+          "content": "Montaser Al-Azhari"
+        },
+        {
+          "title": "Championship",
+          "content": "CAF Champions League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 6"
+        },
+        {
+          "title": "First Leg",
+          "content": "Al Hilal 2\n                                                    -1 TP Mazembe"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Stade TP Mazembe"
+        },
+        {
+          "title": "Channel",
+          "content": "Bein Sport 4"
+        },
+        {
+          "title": "Commentator",
+          "content": "Montaser Al-Azhari"
+        },
+        {
+          "title": "Match Time",
+          "content": "03:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        }
+      ],
+      "channelsAndCommentators": []
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4653903/Al-Ahly-SC-vs-Orlando-Pirates",
+    "league": "CAF Champions League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/5061696621582.png",
+    "homeTeam": "Al Ahly SC",
+    "awayTeam": "Orlando Pirates",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7281692408608.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9591694714907.png",
+    "time": "06:00 pm",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Bein Sport 6",
+          "content": "Ahmed Abdou"
+        },
+        {
+          "title": "Time Sport",
+          "content": "Moamen Hassan"
+        },
+        {
+          "title": "Championship",
+          "content": "CAF Champions League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 6"
+        },
+        {
+          "title": "First Leg",
+          "content": "Orlando Pirates 0\n                                                    -0 Al Ahly SC"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Cairo International Stadium"
+        },
+        {
+          "title": "Match Time",
+          "content": "06:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        },
+        {
+          "title": "Bein Sport 6",
+          "content": "Ahmed Abdou"
+        },
+        {
+          "title": "Time Sport",
+          "content": "Moamen Hassan"
+        }
+      ],
+      "channelsAndCommentators": [
+        {
+          "channel": "Bein Sport 6",
+          "commentator": "Ahmed Abdou"
+        },
+        {
+          "channel": "Time Sport",
+          "commentator": "Moamen Hassan"
+        },
+        {
+          "channel": "Bein Sport 6",
+          "commentator": "Ahmed Abdou"
+        },
+        {
+          "channel": "Time Sport",
+          "commentator": "Moamen Hassan"
+        }
+      ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4653904/CR-Belouizdad-vs-Stade-d'Abidjan",
+    "league": "CAF Champions League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/5061696621582.png",
+    "homeTeam": "CR Belouizdad",
+    "awayTeam": "Stade d'Abidjan",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7231730817571.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/4951692205804.png",
+    "time": "06:00 pm",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "beIN Sports 8"
+        },
+        {
+          "title": "Commentator",
+          "content": "Muhammad Al-Mabrouki"
+        },
+        {
+          "title": "Championship",
+          "content": "CAF Champions League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 6"
+        },
+        {
+          "title": "First Leg",
+          "content": "Stade d'Abidjan 0\n                                                    -1 CR Belouizdad"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Stade 5 Juillet 1962"
+        },
+        {
+          "title": "Channel",
+          "content": "beIN Sports 8"
+        },
+        {
+          "title": "Commentator",
+          "content": "Muhammad Al-Mabrouki"
+        },
+        {
+          "title": "Match Time",
+          "content": "06:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        }
+      ],
+      "channelsAndCommentators": []
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4653865/Pyramids-FC-vs-Djoliba-AC",
+    "league": "CAF Champions League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/5061696621582.png",
+    "homeTeam": "Pyramids FC",
+    "awayTeam": "Djoliba",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7181732355083.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/5771692283569.png",
+    "time": "09:00 pm",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "beIN Sports 8",
+          "content": "Mohamed Fawzy"
+        },
+        {
+          "title": "Time Sport",
+          "content": "Walid Al-Feqi"
+        },
+        {
+          "title": "Championship",
+          "content": "CAF Champions League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 6"
+        },
+        {
+          "title": "First Leg",
+          "content": "Djoliba 0\n                                                    -0 Pyramids FC"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Air Defense Stadium"
+        },
+        {
+          "title": "Match Time",
+          "content": "09:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        },
+        {
+          "title": "beIN Sports 8",
+          "content": "Mohamed Fawzy"
+        },
+        {
+          "title": "Time Sport",
+          "content": "Walid Al-Feqi"
+        }
+      ],
+      "channelsAndCommentators": [
+        {
+          "channel": "beIN Sports 8",
+          "commentator": "Mohamed Fawzy"
+        },
+        {
+          "channel": "Time Sport",
+          "commentator": "Walid Al-Feqi"
+        },
+        {
+          "channel": "beIN Sports 8",
+          "commentator": "Mohamed Fawzy"
+        },
+        {
+          "channel": "Time Sport",
+          "commentator": "Walid Al-Feqi"
+        }
+      ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4653909/Esperance-Tunis-vs-Sagrada-Esperanca",
+    "league": "CAF Champions League",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/5061696621582.png",
+    "homeTeam": "Esperance",
+    "awayTeam": "Sagrada",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6561696628524.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9451695299186.png",
+    "time": "09:00 pm",
+    "details": {
+      "matchInfo": [
+        {
+          "title": "Channel",
+          "content": "Bein Sport 6"
+        },
+        {
+          "title": "Commentator",
+          "content": "Issam Chaouali"
+        },
+        {
+          "title": "Championship",
+          "content": "CAF Champions League"
+        },
+        {
+          "title": "Round",
+          "content": "Round 6"
+        },
+        {
+          "title": "First Leg",
+          "content": "Sagrada 0\n                                                    -0 Esperance"
+        },
+        {
+          "title": "Match Stadium",
+          "content": "Stade olympique Hammadi Agreb"
+        },
+        {
+          "title": "Channel",
+          "content": "Bein Sport 6"
+        },
+        {
+          "title": "Commentator",
+          "content": "Issam Chaouali"
+        },
+        {
+          "title": "Match Time",
+          "content": "09:00 pm"
+        },
+        {
+          "title": "Match Date",
+          "content": "Saturday 18-01-2025"
+        }
+      ],
+      "channelsAndCommentators": []
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4535321/Bologna-vs-Monza",
     "league": "Serie A",
     "leagueLogo": "https://imgs.ysscores.com/championship/48/6281692568873.png",
-    "homeTeam": "Roma",
-    "awayTeam": "Genoa",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/1891690283004.png",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/1271705512779.png",
-    "time": "09:45 pm",
+    "homeTeam": "Bologna",
+    "awayTeam": "Monza",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/5671690283001.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/4281690283003.png",
+    "time": "Time not available",
     "details": {
       "matchInfo": [
         {
           "title": "AD Sports Premium 1",
-          "content": "Ahmed kher"
+          "content": "Unknown"
         },
         {
           "title": "STC TV App",
-          "content": "Ahmed kher"
+          "content": "Unknown"
         },
         {
           "title": "Championship",
@@ -132,582 +1344,131 @@
         },
         {
           "title": "First Leg",
-          "content": "Genoa 1\n                                                    -1 Roma"
+          "content": "Monza 1\n                                                    -2 Bologna"
         },
         {
           "title": "Match Stadium",
-          "content": "Stadio Olimpico, Rome"
+          "content": "Stadio Renato Dell'Ara"
         },
         {
           "title": "Match Time",
-          "content": "09:45 pm"
+          "content": "04:00 pm"
         },
         {
           "title": "Match Date",
-          "content": "Friday 17-01-2025"
+          "content": "Saturday 18-01-2025"
         },
         {
           "title": "AD Sports Premium 1",
-          "content": "Ahmed kher"
+          "content": "Unknown"
         },
         {
           "title": "STC TV App",
-          "content": "Ahmed kher"
+          "content": "Unknown"
         },
         {
           "title": "Referee",
-          "content": "Luca Zufferli"
+          "content": "Maurizio Mariani"
         },
         {
           "title": "Assistant referee",
-          "content": "Giovanni Baccini"
+          "content": "Davide Imperiale"
         },
         {
           "title": "Assistant referee",
-          "content": "Khaled Bahri"
+          "content": "Filippo Bercigli"
         },
         {
           "title": "Assistant referee",
-          "content": "Antonio Rapuano"
-        },
-        {
-          "title": "Var referee",
-          "content": "Marco Di Bello"
+          "content": "Daniele Perenzoni"
         },
         {
           "title": "Var referee",
           "content": "Giacomo Camplone"
+        },
+        {
+          "title": "Var referee",
+          "content": "Valerio Marini"
         }
       ],
       "channelsAndCommentators": [
         {
           "channel": "AD Sports Premium 1",
-          "commentator": "Ahmed kher"
+          "commentator": "Unknown"
         },
         {
           "channel": "STC TV App",
-          "commentator": "Ahmed kher"
+          "commentator": "Unknown"
         },
         {
           "channel": "AD Sports Premium 1",
-          "commentator": "Ahmed kher"
+          "commentator": "Unknown"
         },
         {
           "channel": "STC TV App",
-          "commentator": "Ahmed kher"
+          "commentator": "Unknown"
         },
         {
           "channel": "Referee",
-          "commentator": "Luca Zufferli"
+          "commentator": "Maurizio Mariani"
         },
         {
           "channel": "Assistant referee",
-          "commentator": "Giovanni Baccini"
+          "commentator": "Davide Imperiale"
         },
         {
           "channel": "Assistant referee",
-          "commentator": "Khaled Bahri"
+          "commentator": "Filippo Bercigli"
         },
         {
           "channel": "Assistant referee",
-          "commentator": "Antonio Rapuano"
-        },
-        {
-          "channel": "Var referee",
-          "commentator": "Marco Di Bello"
+          "commentator": "Daniele Perenzoni"
         },
         {
           "channel": "Var referee",
           "commentator": "Giacomo Camplone"
-        }
-      ]
-    }
-  },
-  {
-    "matchLink": "https://www.ysscores.com/en/match/4534696/Eintracht-Frankfurt-vs-Borussia-Dortmund",
-    "league": "Bundesliga",
-    "leagueLogo": "https://imgs.ysscores.com/championship/48/6171690288722.png",
-    "homeTeam": "Frankfurt",
-    "awayTeam": "Dortmund",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4201690288818.png",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/231690288818.png",
-    "time": "09:30 pm",
-    "details": {
-      "matchInfo": [
-        {
-          "title": "Channel",
-          "content": "Bein Sport 5"
-        },
-        {
-          "title": "Commentator",
-          "content": "Mohamed Barakat"
-        },
-        {
-          "title": "Championship",
-          "content": "Bundesliga"
-        },
-        {
-          "title": "Round",
-          "content": "Round 18"
-        },
-        {
-          "title": "First Leg",
-          "content": "Dortmund 2\n                                                    -0 Frankfurt"
-        },
-        {
-          "title": "Match Stadium",
-          "content": "Deutsche Bank Park"
-        },
-        {
-          "title": "Channel",
-          "content": "Bein Sport 5"
-        },
-        {
-          "title": "Commentator",
-          "content": "Mohamed Barakat"
-        },
-        {
-          "title": "Match Time",
-          "content": "09:30 pm"
-        },
-        {
-          "title": "Match Date",
-          "content": "Friday 17-01-2025"
-        }
-      ],
-      "channelsAndCommentators": []
-    }
-  },
-  {
-    "matchLink": "https://www.ysscores.com/en/match/4513835/Montpellier-vs-Monaco",
-    "league": "Ligue 1",
-    "leagueLogo": "https://imgs.ysscores.com/championship/48/9551719862665.png",
-    "homeTeam": "Montpellier",
-    "awayTeam": "Monaco",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/3861690287583.png",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/691720799295.png",
-    "time": "08:00 pm",
-    "details": {
-      "matchInfo": [
-        {
-          "title": "Channel",
-          "content": "Bein Sport 4"
-        },
-        {
-          "title": "Commentator",
-          "content": "Noffal Bachi"
-        },
-        {
-          "title": "Championship",
-          "content": "Ligue 1"
-        },
-        {
-          "title": "Round",
-          "content": "Round 18"
-        },
-        {
-          "title": "First Leg",
-          "content": "Monaco 2\n                                                    -1 Montpellier"
-        },
-        {
-          "title": "Match Stadium",
-          "content": "Stade de la Mosson"
-        },
-        {
-          "title": "Channel",
-          "content": "Bein Sport 4"
-        },
-        {
-          "title": "Commentator",
-          "content": "Noffal Bachi"
-        },
-        {
-          "title": "Match Time",
-          "content": "08:00 pm"
-        },
-        {
-          "title": "Match Date",
-          "content": "Friday 17-01-2025"
-        },
-        {
-          "title": "Referee",
-          "content": "Jerome Brisard"
-        },
-        {
-          "title": "Assistant referee",
-          "content": "Alexis Auger"
-        },
-        {
-          "title": "Assistant referee",
-          "content": "Nicolas Danos"
-        },
-        {
-          "title": "Assistant referee",
-          "content": "Thierry Bouille"
-        },
-        {
-          "title": "Var referee",
-          "content": "Dominique Julien"
-        },
-        {
-          "title": "Var referee",
-          "content": "Yann Flament"
-        }
-      ],
-      "channelsAndCommentators": [
-        {
-          "channel": "Referee",
-          "commentator": "Jerome Brisard"
-        },
-        {
-          "channel": "Assistant referee",
-          "commentator": "Alexis Auger"
-        },
-        {
-          "channel": "Assistant referee",
-          "commentator": "Nicolas Danos"
-        },
-        {
-          "channel": "Assistant referee",
-          "commentator": "Thierry Bouille"
         },
         {
           "channel": "Var referee",
-          "commentator": "Dominique Julien"
-        },
-        {
-          "channel": "Var referee",
-          "commentator": "Yann Flament"
+          "commentator": "Valerio Marini"
         }
       ]
     }
   },
   {
-    "matchLink": "https://www.ysscores.com/en/match/4513832/Lille-vs-Nice",
-    "league": "Ligue 1",
-    "leagueLogo": "https://imgs.ysscores.com/championship/48/9551719862665.png",
-    "homeTeam": "Lille",
-    "awayTeam": "Nice",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7361690287672.png",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/381690287334.png",
-    "time": "10:05 pm",
-    "details": {
-      "matchInfo": [
-        {
-          "title": "Channel",
-          "content": "beIN Sport 1"
-        },
-        {
-          "title": "Commentator",
-          "content": "Muhammad Al-Mabrouki"
-        },
-        {
-          "title": "Championship",
-          "content": "Ligue 1"
-        },
-        {
-          "title": "Round",
-          "content": "Round 18"
-        },
-        {
-          "title": "First Leg",
-          "content": "Nice 2\n                                                    -2 Lille"
-        },
-        {
-          "title": "Match Stadium",
-          "content": "Decathlon Arena-Stade Pierre-Mauroy"
-        },
-        {
-          "title": "Channel",
-          "content": "beIN Sport 1"
-        },
-        {
-          "title": "Commentator",
-          "content": "Muhammad Al-Mabrouki"
-        },
-        {
-          "title": "Match Time",
-          "content": "10:05 pm"
-        },
-        {
-          "title": "Match Date",
-          "content": "Friday 17-01-2025"
-        },
-        {
-          "title": "Referee",
-          "content": "Francois Letexier"
-        },
-        {
-          "title": "Assistant referee",
-          "content": "Cyril Mugnier"
-        },
-        {
-          "title": "Assistant referee",
-          "content": "Mehdi Rahmouni"
-        },
-        {
-          "title": "Assistant referee",
-          "content": "Romain Lissorgue"
-        },
-        {
-          "title": "Var referee",
-          "content": "Alexandre Castro"
-        },
-        {
-          "title": "Var referee",
-          "content": "Wilfried Bien"
-        }
-      ],
-      "channelsAndCommentators": [
-        {
-          "channel": "Referee",
-          "commentator": "Francois Letexier"
-        },
-        {
-          "channel": "Assistant referee",
-          "commentator": "Cyril Mugnier"
-        },
-        {
-          "channel": "Assistant referee",
-          "commentator": "Mehdi Rahmouni"
-        },
-        {
-          "channel": "Assistant referee",
-          "commentator": "Romain Lissorgue"
-        },
-        {
-          "channel": "Var referee",
-          "commentator": "Alexandre Castro"
-        },
-        {
-          "channel": "Var referee",
-          "commentator": "Wilfried Bien"
-        }
-      ]
-    }
-  },
-  {
-    "matchLink": "https://www.ysscores.com/en/match/4564044/Al-Khaleej-vs-Al-Orobah-FC",
-    "league": "Saudi League",
-    "leagueLogo": "https://imgs.ysscores.com/championship/48/3421703719071.png",
-    "homeTeam": "Al Khaleej",
-    "awayTeam": "Al-Orobah",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7961724280670.png",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/7451690299071.png",
-    "time": "03:15 pm",
-    "details": {
-      "matchInfo": [
-        {
-          "title": "SSC 1 HD",
-          "content": "Issa al-Harbain"
-        },
-        {
-          "title": "SSC 5 HD",
-          "content": "Issa al-Harbain"
-        },
-        {
-          "title": "SSC 1 SD",
-          "content": "Ali Al-Rabie"
-        },
-        {
-          "title": "Shahid VIP | Sports",
-          "content": "Issa al-Harbain"
-        },
-        {
-          "title": "Championship",
-          "content": "Saudi League"
-        },
-        {
-          "title": "Round",
-          "content": "Round 15"
-        },
-        {
-          "title": "Match Stadium",
-          "content": "Prince Mohamed bin Fahd Stadium"
-        },
-        {
-          "title": "Match Time",
-          "content": "03:15 pm"
-        },
-        {
-          "title": "Match Date",
-          "content": "Friday 17-01-2025"
-        },
-        {
-          "title": "SSC 1 HD",
-          "content": "Issa al-Harbain"
-        },
-        {
-          "title": "SSC 5 HD",
-          "content": "Issa al-Harbain"
-        },
-        {
-          "title": "SSC 1 SD",
-          "content": "Ali Al-Rabie"
-        },
-        {
-          "title": "Shahid VIP | Sports",
-          "content": "Issa al-Harbain"
-        }
-      ],
-      "channelsAndCommentators": [
-        {
-          "channel": "SSC 1 HD",
-          "commentator": "Issa al-Harbain"
-        },
-        {
-          "channel": "SSC 5 HD",
-          "commentator": "Issa al-Harbain"
-        },
-        {
-          "channel": "SSC 1 SD",
-          "commentator": "Ali Al-Rabie"
-        },
-        {
-          "channel": "Shahid VIP | Sports",
-          "commentator": "Issa al-Harbain"
-        },
-        {
-          "channel": "SSC 1 HD",
-          "commentator": "Issa al-Harbain"
-        },
-        {
-          "channel": "SSC 5 HD",
-          "commentator": "Issa al-Harbain"
-        },
-        {
-          "channel": "SSC 1 SD",
-          "commentator": "Ali Al-Rabie"
-        },
-        {
-          "channel": "Shahid VIP | Sports",
-          "commentator": "Issa al-Harbain"
-        }
-      ]
-    }
-  },
-  {
-    "matchLink": "https://www.ysscores.com/en/match/4564038/Al-Wehda-vs-Al-Qadsiah-FC",
-    "league": "Saudi League",
-    "leagueLogo": "https://imgs.ysscores.com/championship/48/3421703719071.png",
-    "homeTeam": "Al-Wehda",
-    "awayTeam": "Al-Qadsiah",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6611724280721.png",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/6451690292495.png",
-    "time": "05:40 pm",
-    "details": {
-      "matchInfo": [
-        {
-          "title": "SSC Extra 1 HD",
-          "content": "Saad Yahya"
-        },
-        {
-          "title": "SSC Extra 1 SD",
-          "content": "Abdul Aziz Al-Zaid"
-        },
-        {
-          "title": "Shahid VIP | Sports",
-          "content": "Saad Yahya"
-        },
-        {
-          "title": "Championship",
-          "content": "Saudi League"
-        },
-        {
-          "title": "Round",
-          "content": "Round 15"
-        },
-        {
-          "title": "Match Stadium",
-          "content": "King Abdul Aziz Stadium"
-        },
-        {
-          "title": "Match Time",
-          "content": "05:40 pm"
-        },
-        {
-          "title": "Match Date",
-          "content": "Friday 17-01-2025"
-        },
-        {
-          "title": "SSC Extra 1 HD",
-          "content": "Saad Yahya"
-        },
-        {
-          "title": "SSC Extra 1 SD",
-          "content": "Abdul Aziz Al-Zaid"
-        },
-        {
-          "title": "Shahid VIP | Sports",
-          "content": "Saad Yahya"
-        }
-      ],
-      "channelsAndCommentators": [
-        {
-          "channel": "SSC Extra 1 HD",
-          "commentator": "Saad Yahya"
-        },
-        {
-          "channel": "SSC Extra 1 SD",
-          "commentator": "Abdul Aziz Al-Zaid"
-        },
-        {
-          "channel": "Shahid VIP | Sports",
-          "commentator": "Saad Yahya"
-        },
-        {
-          "channel": "SSC Extra 1 HD",
-          "commentator": "Saad Yahya"
-        },
-        {
-          "channel": "SSC Extra 1 SD",
-          "commentator": "Abdul Aziz Al-Zaid"
-        },
-        {
-          "channel": "Shahid VIP | Sports",
-          "commentator": "Saad Yahya"
-        }
-      ]
-    }
-  },
-  {
-    "matchLink": "https://www.ysscores.com/en/match/4564040/Al-Taawoun-vs-Al-Nassr-FC",
-    "league": "Saudi League",
-    "leagueLogo": "https://imgs.ysscores.com/championship/48/3421703719071.png",
-    "homeTeam": "Al-Taawoun",
-    "awayTeam": "Al Nassr FC",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/2061724329202.png",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9971724321815.png",
+    "matchLink": "https://www.ysscores.com/en/match/4535327/Juventus-vs-AC-Milan",
+    "league": "Serie A",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/6281692568873.png",
+    "homeTeam": "Juventus",
+    "awayTeam": "AC Milan",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/3181690283002.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9331690283003.png",
     "time": "07:00 pm",
     "details": {
       "matchInfo": [
         {
-          "title": "SSC 1 HD",
-          "content": "Mishary Al-Qarni"
+          "title": "AD Sports Premium 1",
+          "content": "Fares Awad"
         },
         {
-          "title": "SSC 5 HD",
-          "content": "Muhammad Hussain"
-        },
-        {
-          "title": "SSC 1 SD",
-          "content": "Issa ِlzadjalii"
-        },
-        {
-          "title": "Shahid VIP | Sports",
-          "content": "Mishary Al-Qarni"
+          "title": "STC TV App",
+          "content": "Fares Awad"
         },
         {
           "title": "Championship",
-          "content": "Saudi League"
+          "content": "Serie A"
         },
         {
           "title": "Round",
-          "content": "Round 15"
+          "content": "Round 21"
+        },
+        {
+          "title": "First Leg",
+          "content": "AC Milan 0\n                                                    -0 Juventus"
         },
         {
           "title": "Match Stadium",
-          "content": "King Abdullah Stadium, Buraidah"
+          "content": "Allianz Stadium"
         },
         {
           "title": "Match Time",
@@ -715,59 +1476,174 @@
         },
         {
           "title": "Match Date",
-          "content": "Friday 17-01-2025"
+          "content": "Saturday 18-01-2025"
         },
         {
-          "title": "SSC 1 HD",
-          "content": "Mishary Al-Qarni"
+          "title": "AD Sports Premium 1",
+          "content": "Fares Awad"
         },
         {
-          "title": "SSC 5 HD",
-          "content": "Muhammad Hussain"
+          "title": "STC TV App",
+          "content": "Fares Awad"
         },
         {
-          "title": "SSC 1 SD",
-          "content": "Issa ِlzadjalii"
+          "title": "Referee",
+          "content": "Davide Massa"
         },
         {
-          "title": "Shahid VIP | Sports",
-          "content": "Mishary Al-Qarni"
+          "title": "Assistant referee",
+          "content": "Daniele Bindoni"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Marco Scatragli"
+        },
+        {
+          "title": "Assistant referee",
+          "content": "Kevin Bonacina"
+        },
+        {
+          "title": "Var referee",
+          "content": "Rosario Abisso"
+        },
+        {
+          "title": "Var referee",
+          "content": "Paolo Silvio Mazzoleni"
         }
       ],
       "channelsAndCommentators": [
         {
-          "channel": "SSC 1 HD",
-          "commentator": "Mishary Al-Qarni"
+          "channel": "AD Sports Premium 1",
+          "commentator": "Fares Awad"
         },
         {
-          "channel": "SSC 5 HD",
-          "commentator": "Muhammad Hussain"
+          "channel": "STC TV App",
+          "commentator": "Fares Awad"
         },
         {
-          "channel": "SSC 1 SD",
-          "commentator": "Issa ِlzadjalii"
+          "channel": "AD Sports Premium 1",
+          "commentator": "Fares Awad"
         },
         {
-          "channel": "Shahid VIP | Sports",
-          "commentator": "Mishary Al-Qarni"
+          "channel": "STC TV App",
+          "commentator": "Fares Awad"
         },
         {
-          "channel": "SSC 1 HD",
-          "commentator": "Mishary Al-Qarni"
+          "channel": "Referee",
+          "commentator": "Davide Massa"
         },
         {
-          "channel": "SSC 5 HD",
-          "commentator": "Muhammad Hussain"
+          "channel": "Assistant referee",
+          "commentator": "Daniele Bindoni"
         },
         {
-          "channel": "SSC 1 SD",
-          "commentator": "Issa ِlzadjalii"
+          "channel": "Assistant referee",
+          "commentator": "Marco Scatragli"
         },
         {
-          "channel": "Shahid VIP | Sports",
-          "commentator": "Mishary Al-Qarni"
+          "channel": "Assistant referee",
+          "commentator": "Kevin Bonacina"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Rosario Abisso"
+        },
+        {
+          "channel": "Var referee",
+          "commentator": "Paolo Silvio Mazzoleni"
         }
       ]
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4535320/Atalanta-vs-SSC-Napoli",
+    "league": "Serie A",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/6281692568873.png",
+    "homeTeam": "Atalanta",
+    "awayTeam": "SSC Napoli",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9521720636634.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3541690283001.png",
+    "time": "09:45 pm",
+    "details": {
+      "error": "Failed to retrieve details"
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4534694/VfB-Stuttgart-vs-Freiburg",
+    "league": "Bundesliga",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/6171690288722.png",
+    "homeTeam": "VfB Stuttgart",
+    "awayTeam": "Freiburg",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4771690288817.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/8731690288819.png",
+    "time": "Time not available",
+    "details": {
+      "error": "Failed to retrieve details"
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4534695/Bayern-Munich-vs-Wolfsburg",
+    "league": "Bundesliga",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/6171690288722.png",
+    "homeTeam": "Bayern Munich",
+    "awayTeam": "Wolfsburg",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6941690288817.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/2351690288818.png",
+    "time": "Time not available",
+    "details": {
+      "error": "Failed to retrieve details"
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4534697/FC-Heidenheim-vs-St.-Pauli",
+    "league": "Bundesliga",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/6171690288722.png",
+    "homeTeam": "FC Heidenheim",
+    "awayTeam": "St. Pauli",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6091690370514.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3761690288819.png",
+    "time": "Time not available",
+    "details": {
+      "error": "Failed to retrieve details"
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4534700/Bochum-vs-RB-Leipzig",
+    "league": "Bundesliga",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/6171690288722.png",
+    "homeTeam": "Bochum",
+    "awayTeam": "RB Leipzig",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/8361734715237.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/5011690288819.png",
+    "time": "Time not available",
+    "details": {
+      "error": "Failed to retrieve details"
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4534701/Holstein-Kiel-vs-Hoffenheim",
+    "league": "Bundesliga",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/6171690288722.png",
+    "homeTeam": "Holstein Kiel",
+    "awayTeam": "Hoffenheim",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/5141690288816.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/6261690370514.png",
+    "time": "Time not available",
+    "details": {
+      "error": "Failed to retrieve details"
+    }
+  },
+  {
+    "matchLink": "https://www.ysscores.com/en/match/4534693/Bayer-Leverkusen-vs-Borussia-Mönchengladbach",
+    "league": "Bundesliga",
+    "leagueLogo": "https://imgs.ysscores.com/championship/48/6171690288722.png",
+    "homeTeam": "Leverkusen",
+    "awayTeam": "Mönchengladbach",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4571690288818.png",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/7151690288816.png",
+    "time": "07:30 pm",
+    "details": {
+      "error": "Failed to retrieve details"
     }
   }
 ]

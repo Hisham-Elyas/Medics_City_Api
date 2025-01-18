@@ -116,37 +116,40 @@ const scrapeTodayMatches = async () => {
     // Extract matches
     const matches = await page.evaluate(() => {
       const baseURL = "https://www.ysscores.com";
-      return Array.from(document.querySelectorAll(".matches-wrapper"))
-        .slice(0, 5)
-        .flatMap((championship) => {
-          const leagueName =
-            championship.querySelector(".champ-title b")?.textContent.trim() ||
-            "Unknown League";
-          const leagueNameLogo =
-            championship.querySelector(".champ-title img")?.src || "No Logo";
-          const matchItems = Array.from(
-            championship.querySelectorAll(".ajax-match-item")
-          );
+      return (
+        Array.from(document.querySelectorAll(".matches-wrapper"))
+          // .slice(0, 2)  // for test 2 matches only
+          .flatMap((championship) => {
+            const leagueName =
+              championship
+                .querySelector(".champ-title b")
+                ?.textContent.trim() || "Unknown League";
+            const leagueNameLogo =
+              championship.querySelector(".champ-title img")?.src || "No Logo";
+            const matchItems = Array.from(
+              championship.querySelectorAll(".ajax-match-item")
+            );
 
-          return matchItems.map((match) => ({
-            matchLink: match.getAttribute("href") || "No Link",
-            league: leagueName,
-            leagueLogo: leagueNameLogo,
-            homeTeam:
-              match.querySelector(".first-team b")?.textContent.trim() ||
-              "Unknown Team",
-            awayTeam:
-              match.querySelector(".second-team b")?.textContent.trim() ||
-              "Unknown Team",
-            awayTeamLogo:
-              match.querySelector(".second-team img")?.src || "No Logo",
-            homeTeamLogo:
-              match.querySelector(".first-team img")?.src || "No Logo",
-            time:
-              match.querySelector(".match-date")?.textContent.trim() ||
-              "Time not available",
-          }));
-        });
+            return matchItems.map((match) => ({
+              matchLink: match.getAttribute("href") || "No Link",
+              league: leagueName,
+              leagueLogo: leagueNameLogo,
+              homeTeam:
+                match.querySelector(".first-team b")?.textContent.trim() ||
+                "Unknown Team",
+              awayTeam:
+                match.querySelector(".second-team b")?.textContent.trim() ||
+                "Unknown Team",
+              awayTeamLogo:
+                match.querySelector(".second-team img")?.src || "No Logo",
+              homeTeamLogo:
+                match.querySelector(".first-team img")?.src || "No Logo",
+              time:
+                match.querySelector(".match-date")?.textContent.trim() ||
+                "Time not available",
+            }));
+          })
+      );
     });
 
     console.log(
@@ -233,6 +236,6 @@ const scrapeTodayMatches = async () => {
   }
 };
 
-scrapeTodayMatches();
+// scrapeTodayMatches();
 // filterMatches();
 module.exports = scrapeTodayMatches;

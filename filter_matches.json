@@ -1,53 +1,393 @@
 [
   {
-    "league": "LaLiga",
-    "homeTeam": "Espanyol",
-    "awayTeam": "Valladolid",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/4481690370529.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4491724084879.png",
-    "time": "10:00 pm",
-    "matchDate": "Friday 17-01-2025",
-    "matchTime": "10:00 pm",
+    "league": "Premier League",
+    "homeTeam": "Brentford",
+    "awayTeam": "Liverpool",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/4791690118957.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4081724601375.png",
+    "time": "Time not available",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "05:00 pm",
     "channelsAndCommentators": [
       {
-        "Channel": "Bein Sport 3",
+        "Channel": "beIN Sport 1",
+        "Commentator": "Ali Muhammad Ali"
+      },
+      {
+        "Channel": "beIN Sport 1",
+        "Commentator": "Ali Muhammad Ali"
+      }
+    ]
+  },
+  {
+    "league": "Premier League",
+    "homeTeam": "Leicester",
+    "awayTeam": "Fulham",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/5531690711879.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4711690118927.png",
+    "time": "Time not available",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "05:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 2",
+        "Commentator": "Noffal Bachi"
+      },
+      {
+        "Channel": "Bein Sport 2",
+        "Commentator": "Noffal Bachi"
+      }
+    ]
+  },
+  {
+    "league": "Premier League",
+    "homeTeam": "West Ham",
+    "awayTeam": "Crystal Palace",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/7191690118603.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6121690118883.png",
+    "time": "Time not available",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "05:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "beIN Sports Xtra 2",
+        "Commentator": "Samir Al-Yaqoubi"
+      },
+      {
+        "Channel": "beIN Sports Xtra 2",
+        "Commentator": "Samir Al-Yaqoubi"
+      }
+    ]
+  },
+  {
+    "league": "Premier League",
+    "homeTeam": "Newcastle",
+    "awayTeam": "Bournemouth",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3721690119405.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7651690118769.png",
+    "time": "1\n                                                                -\n                                                                4",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "02:30 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "beIN Sport 1",
         "Commentator": "Abdallah Alghamedi"
       },
       {
-        "Channel": "Bein Sport 3",
+        "Channel": "beIN Sport 1",
         "Commentator": "Abdallah Alghamedi"
+      }
+    ]
+  },
+  {
+    "league": "Premier League",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Aston Villa",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/1701690118820.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9921723414870.png",
+    "time": "07:30 pm",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "07:30 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "beIN Sport 1",
+        "Commentator": "Hassan Aidaroos"
+      },
+      {
+        "Channel": "beIN 4K",
+        "Commentator": "Hassan Aidaroos"
+      }
+    ]
+  },
+  {
+    "league": "LaLiga",
+    "homeTeam": "Leganes",
+    "awayTeam": "Atlético",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/8211690370509.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/1431719588699.png",
+    "time": "Time not available",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "05:15 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 3",
+        "Commentator": "Basem Al-Zeer"
+      },
+      {
+        "Channel": "Bein Sport 3",
+        "Commentator": "Basem Al-Zeer"
+      }
+    ]
+  },
+  {
+    "league": "LaLiga",
+    "homeTeam": "Girona",
+    "awayTeam": "Sevilla",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3151690196742.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6931690196743.png",
+    "time": "1\n                                                                -\n                                                                2",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "03:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 3",
+        "Commentator": "Hassan Aidaroos"
+      },
+      {
+        "Channel": "Bein Sport 3",
+        "Commentator": "Hassan Aidaroos"
+      }
+    ]
+  },
+  {
+    "league": "LaLiga",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Alaves",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9221690196745.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/2381690196746.png",
+    "time": "07:30 pm",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "07:30 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 3",
+        "Commentator": "Mohamed Barakat"
+      },
+      {
+        "Channel": "Bein Sport 3",
+        "Commentator": "Mohamed Barakat"
+      }
+    ]
+  },
+  {
+    "league": "LaLiga",
+    "homeTeam": "Getafe",
+    "awayTeam": "Barcelona",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3451691957863.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9541690196746.png",
+    "time": "10:00 pm",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "10:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "beIN Sport 1",
+        "Commentator": "Ali Saeed Al Kaabi"
+      },
+      {
+        "Channel": "beIN Sport 1",
+        "Commentator": "Ali Saeed Al Kaabi"
+      }
+    ]
+  },
+  {
+    "league": "CAF Champions League",
+    "homeTeam": "Young Africans",
+    "awayTeam": "MC Alger",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/2951692283216.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7391693665631.png",
+    "time": "0\n                                                                -\n                                                                0",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "03:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 6",
+        "Commentator": "Hafeez Darraji"
+      },
+      {
+        "Channel": "Bein Sport 6",
+        "Commentator": "Hafeez Darraji"
+      }
+    ]
+  },
+  {
+    "league": "CAF Champions League",
+    "homeTeam": "TP Mazembe",
+    "awayTeam": "Al Hilal",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/8981694715382.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9571692282425.png",
+    "time": "4\n                                                                -\n                                                                0",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "03:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 4",
+        "Commentator": "Montaser Al-Azhari"
+      },
+      {
+        "Channel": "Bein Sport 4",
+        "Commentator": "Montaser Al-Azhari"
+      }
+    ]
+  },
+  {
+    "league": "CAF Champions League",
+    "homeTeam": "Al Ahly SC",
+    "awayTeam": "Orlando Pirates",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9591694714907.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7281692408608.png",
+    "time": "06:00 pm",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "06:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 6",
+        "Commentator": "Ahmed Abdou"
+      },
+      {
+        "Channel": "Time Sport",
+        "Commentator": "Moamen Hassan"
+      }
+    ]
+  },
+  {
+    "league": "CAF Champions League",
+    "homeTeam": "CR Belouizdad",
+    "awayTeam": "Stade d'Abidjan",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/4951692205804.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7231730817571.png",
+    "time": "06:00 pm",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "06:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "beIN Sports 8",
+        "Commentator": "Muhammad Al-Mabrouki"
+      },
+      {
+        "Channel": "beIN Sports 8",
+        "Commentator": "Muhammad Al-Mabrouki"
+      }
+    ]
+  },
+  {
+    "league": "CAF Champions League",
+    "homeTeam": "Pyramids FC",
+    "awayTeam": "Djoliba",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/5771692283569.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7181732355083.png",
+    "time": "09:00 pm",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "09:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "beIN Sports 8",
+        "Commentator": "Mohamed Fawzy"
+      },
+      {
+        "Channel": "Time Sport",
+        "Commentator": "Walid Al-Feqi"
+      }
+    ]
+  },
+  {
+    "league": "CAF Champions League",
+    "homeTeam": "Esperance",
+    "awayTeam": "Sagrada",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9451695299186.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6561696628524.png",
+    "time": "09:00 pm",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "09:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "Bein Sport 6",
+        "Commentator": "Issam Chaouali"
+      },
+      {
+        "Channel": "Bein Sport 6",
+        "Commentator": "Issam Chaouali"
       }
     ]
   },
   {
     "league": "Serie A",
-    "homeTeam": "Roma",
-    "awayTeam": "Genoa",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/1271705512779.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/1891690283004.png",
+    "homeTeam": "Bologna",
+    "awayTeam": "Monza",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/4281690283003.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/5671690283001.png",
+    "time": "Time not available",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "04:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "AD Sports Premium 1",
+        "Commentator": "Unknown"
+      },
+      {
+        "Channel": "STC TV App",
+        "Commentator": "Unknown"
+      }
+    ]
+  },
+  {
+    "league": "Serie A",
+    "homeTeam": "Juventus",
+    "awayTeam": "AC Milan",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9331690283003.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/3181690283002.png",
+    "time": "07:00 pm",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "07:00 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "AD Sports Premium 1",
+        "Commentator": "Fares Awad"
+      },
+      {
+        "Channel": "STC TV App",
+        "Commentator": "Fares Awad"
+      }
+    ]
+  },
+  {
+    "league": "Serie A",
+    "homeTeam": "Atalanta",
+    "awayTeam": "SSC Napoli",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3541690283001.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9521720636634.png",
     "time": "09:45 pm",
-    "matchDate": "Friday 17-01-2025",
+    "matchDate": "Saturday 18-01-2025",
     "matchTime": "09:45 pm",
     "channelsAndCommentators": [
       {
         "Channel": "AD Sports Premium 1",
-        "Commentator": "Ahmed kher"
+        "Commentator": "Bilal Allam"
       },
       {
         "Channel": "STC TV App",
-        "Commentator": "Ahmed kher"
+        "Commentator": "Bilal Allam"
       }
     ]
   },
   {
     "league": "Bundesliga",
-    "homeTeam": "Frankfurt",
-    "awayTeam": "Dortmund",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/231690288818.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4201690288818.png",
-    "time": "09:30 pm",
-    "matchDate": "Friday 17-01-2025",
-    "matchTime": "09:30 pm",
+    "homeTeam": "VfB Stuttgart",
+    "awayTeam": "Freiburg",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/8731690288819.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4771690288817.png",
+    "time": "Time not available",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "04:30 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "TOD",
+        "Commentator": "Ahmed Abdou"
+      },
+      {
+        "Channel": "TOD",
+        "Commentator": "Ahmed Abdou"
+      }
+    ]
+  },
+  {
+    "league": "Bundesliga",
+    "homeTeam": "Bayern Munich",
+    "awayTeam": "Wolfsburg",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/2351690288818.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6941690288817.png",
+    "time": "Time not available",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "04:30 pm",
     "channelsAndCommentators": [
       {
         "Channel": "Bein Sport 5",
@@ -60,102 +400,82 @@
     ]
   },
   {
-    "league": "Ligue 1",
-    "homeTeam": "Montpellier",
-    "awayTeam": "Monaco",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/691720799295.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/3861690287583.png",
-    "time": "08:00 pm",
-    "matchDate": "Friday 17-01-2025",
-    "matchTime": "08:00 pm",
+    "league": "Bundesliga",
+    "homeTeam": "FC Heidenheim",
+    "awayTeam": "St. Pauli",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3761690288819.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6091690370514.png",
+    "time": "Time not available",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "04:30 pm",
     "channelsAndCommentators": [
       {
-        "Channel": "Bein Sport 4",
+        "Channel": "TOD",
+        "Commentator": "Ahmed Al Balushi"
+      },
+      {
+        "Channel": "TOD",
+        "Commentator": "Ahmed Al Balushi"
+      }
+    ]
+  },
+  {
+    "league": "Bundesliga",
+    "homeTeam": "Bochum",
+    "awayTeam": "RB Leipzig",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/5011690288819.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/8361734715237.png",
+    "time": "Time not available",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "04:30 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "TOD",
+        "Commentator": "Montaser Al-Azhari"
+      },
+      {
+        "Channel": "TOD",
+        "Commentator": "Montaser Al-Azhari"
+      }
+    ]
+  },
+  {
+    "league": "Bundesliga",
+    "homeTeam": "Holstein Kiel",
+    "awayTeam": "Hoffenheim",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/6261690370514.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/5141690288816.png",
+    "time": "Time not available",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "04:30 pm",
+    "channelsAndCommentators": [
+      {
+        "Channel": "TOD",
         "Commentator": "Noffal Bachi"
       },
       {
-        "Channel": "Bein Sport 4",
+        "Channel": "TOD",
         "Commentator": "Noffal Bachi"
       }
     ]
   },
   {
-    "league": "Ligue 1",
-    "homeTeam": "Lille",
-    "awayTeam": "Nice",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/381690287334.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7361690287672.png",
-    "time": "10:05 pm",
-    "matchDate": "Friday 17-01-2025",
-    "matchTime": "10:05 pm",
+    "league": "Bundesliga",
+    "homeTeam": "Leverkusen",
+    "awayTeam": "Mönchengladbach",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/7151690288816.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/4571690288818.png",
+    "time": "07:30 pm",
+    "matchDate": "Saturday 18-01-2025",
+    "matchTime": "07:30 pm",
     "channelsAndCommentators": [
       {
-        "Channel": "beIN Sport 1",
-        "Commentator": "Muhammad Al-Mabrouki"
+        "Channel": "Bein Sport 5",
+        "Commentator": "Mohamed Assadi"
       },
       {
-        "Channel": "beIN Sport 1",
-        "Commentator": "Muhammad Al-Mabrouki"
-      }
-    ]
-  },
-  {
-    "league": "Saudi League",
-    "homeTeam": "Al Khaleej",
-    "awayTeam": "Al-Orobah",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/7451690299071.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/7961724280670.png",
-    "time": "03:15 pm",
-    "matchDate": "Friday 17-01-2025",
-    "matchTime": "03:15 pm",
-    "channelsAndCommentators": [
-      {
-        "Channel": "SSC 1 HD",
-        "Commentator": "Issa al-Harbain"
-      },
-      {
-        "Channel": "SSC 5 HD",
-        "Commentator": "Issa al-Harbain"
-      }
-    ]
-  },
-  {
-    "league": "Saudi League",
-    "homeTeam": "Al-Wehda",
-    "awayTeam": "Al-Qadsiah",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/6451690292495.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/6611724280721.png",
-    "time": "05:40 pm",
-    "matchDate": "Friday 17-01-2025",
-    "matchTime": "05:40 pm",
-    "channelsAndCommentators": [
-      {
-        "Channel": "SSC Extra 1 HD",
-        "Commentator": "Saad Yahya"
-      },
-      {
-        "Channel": "SSC Extra 1 SD",
-        "Commentator": "Abdul Aziz Al-Zaid"
-      }
-    ]
-  },
-  {
-    "league": "Saudi League",
-    "homeTeam": "Al-Taawoun",
-    "awayTeam": "Al Nassr FC",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9971724321815.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/2061724329202.png",
-    "time": "07:00 pm",
-    "matchDate": "Friday 17-01-2025",
-    "matchTime": "07:00 pm",
-    "channelsAndCommentators": [
-      {
-        "Channel": "SSC 1 HD",
-        "Commentator": "Mishary Al-Qarni"
-      },
-      {
-        "Channel": "SSC 5 HD",
-        "Commentator": "Muhammad Hussain"
+        "Channel": "Bein Sport 5",
+        "Commentator": "Mohamed Assadi"
       }
     ]
   }
