@@ -78,7 +78,7 @@ const filterMatches = () => {
         awayTeam: match.awayTeam,
         homeTeamLogo: match.homeTeamLogo,
         awayTeamLogo: match.awayTeamLogo,
-        time: match.time,
+        // time: match.time,
         matchDate,
         matchTime,
         channelsAndCommentators,
