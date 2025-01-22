@@ -6,18 +6,9 @@
     "awayTeam": "Sporting CP",
     "homeTeamLogo": "https://imgs.ysscores.com/teams/64/8361734715237.png",
     "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9791690386587.png",
-    "matchTime": "8:45 PM",
-    "matchDate": "Wednesday 22-01-2025",
-    "channelsAndCommentators": [
-      {
-        "Channel": "Bein Sport 2",
-        "Commentator": "Muhammad Al-Mabrouki"
-      },
-      {
-        "Channel": "Bein Sport 2",
-        "Commentator": "Muhammad Al-Mabrouki"
-      }
-    ]
+    "matchTime": "N/A",
+    "matchDate": "N/A",
+    "channelsAndCommentators": []
   },
   {
     "league": "UEFA Champions League",
@@ -264,10 +255,10 @@
   {
     "league": "Oman Professional League",
     "leagueLogo": "https://imgs.ysscores.com/championship/48/2201691928047.png",
-    "homeTeam": "Sur",
-    "awayTeam": "Bahla",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3801691931317.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/3291691931416.png",
+    "homeTeam": "Saham",
+    "awayTeam": "Oman FC",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/1541722176368.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9041691931536.png",
     "matchTime": "N/A",
     "matchDate": "N/A",
     "channelsAndCommentators": []
@@ -275,10 +266,10 @@
   {
     "league": "Oman Professional League",
     "leagueLogo": "https://imgs.ysscores.com/championship/48/2201691928047.png",
-    "homeTeam": "Saham",
-    "awayTeam": "Oman FC",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/1541722176368.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/9041691931536.png",
+    "homeTeam": "Sur",
+    "awayTeam": "Bahla",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3801691931317.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/3291691931416.png",
     "matchTime": "N/A",
     "matchDate": "N/A",
     "channelsAndCommentators": []
@@ -330,10 +321,10 @@
   {
     "league": "Qatar Stars League",
     "leagueLogo": "https://imgs.ysscores.com/championship/48/2141723214226.png",
-    "homeTeam": "Al-Shahania",
-    "awayTeam": "Al-Khor",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9711722879334.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/8331722100239.png",
+    "homeTeam": "Al-Gharafa",
+    "awayTeam": "Al-Ahli",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3761719156653.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/5031722879444.png",
     "matchTime": "N/A",
     "matchDate": "N/A",
     "channelsAndCommentators": []
@@ -341,10 +332,10 @@
   {
     "league": "Qatar Stars League",
     "leagueLogo": "https://imgs.ysscores.com/championship/48/2141723214226.png",
-    "homeTeam": "Al-Gharafa",
-    "awayTeam": "Al-Ahli",
-    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/3761719156653.png",
-    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/5031722879444.png",
+    "homeTeam": "Al-Shahania",
+    "awayTeam": "Al-Khor",
+    "homeTeamLogo": "https://imgs.ysscores.com/teams/64/9711722879334.png",
+    "awayTeamLogo": "https://imgs.ysscores.com/teams/64/8331722100239.png",
     "matchTime": "N/A",
     "matchDate": "N/A",
     "channelsAndCommentators": []

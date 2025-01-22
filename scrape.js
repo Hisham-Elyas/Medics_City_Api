@@ -56,11 +56,13 @@ const filterMatches = () => {
     // Filter matches
     const filteredMatches = matches.map((match) => {
       // Extract Match Info details
-      const matchTime = addHour(
+      // const matchTime = addHour(
+      //   match.details?.matchInfo.find((info) => info.title === "Match Time")
+      //     ?.content || "N/A"
+      // );
+      const matchTime =
         match.details?.matchInfo.find((info) => info.title === "Match Time")
-          ?.content || "N/A"
-      );
-
+          ?.content || "N/A";
       const matchDate =
         match.details?.matchInfo.find((info) => info.title === "Match Date")
           ?.content || "N/A";
