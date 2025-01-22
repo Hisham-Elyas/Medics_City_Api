@@ -14,161 +14,6 @@ const userAgents = [
 ];
 
 // Utility functions
-const randomDelay = (min, max) =>
-  Math.floor(Math.random() * (max - min + 1)) + min;
-
-// // In the humanInteraction function:
-// async function humanInteraction(page) {
-//   // Random mouse movement
-//   // await page.mouse.move(
-//   //   randomDelay(100, page.viewport().width),
-//   //   randomDelay(100, page.viewport().height)
-//   // );
-
-//   // Use traditional timeout
-//   await new Promise((resolve) => setTimeout(resolve, randomDelay(500, 2000)));
-
-//   // Random scrolling
-//   await page.evaluate(async () => {
-//     window.scrollTo({
-//       top: Math.random() * document.body.scrollHeight,
-//       behavior: "smooth",
-//     });
-//   });
-// }
-
-const scrapeTodayMatches2 = async () => {
-  const browser = await puppeteer.launch({
-    headless: "new",
-    args: [
-      "--disable-blink-features=AutomationControlled",
-      "--no-sandbox",
-      "--disable-setuid-sandbox",
-      "--disable-dev-shm-usage",
-    ],
-  });
-
-  const page = await browser.newPage();
-
-  try {
-    // Set random user agent
-    await page.setUserAgent(
-      userAgents[Math.floor(Math.random() * userAgents.length)]
-    );
-    // await page.setViewport({ width: 1366, height: 768, deviceScaleFactor: 1 });
-
-    // Set extra headers
-    // await page.setExtraHTTPHeaders({
-    //   "Accept-Language": "en-US,en;q=0.9",
-    //   Referer: "https://www.google.com/",
-    //   "Sec-Fetch-Dest": "document",
-    //   "Sec-Fetch-Mode": "navigate",
-    // });
-
-    // // Block unnecessary resources
-    // await page.setRequestInterception(true);
-    // page.on("request", (req) => {
-    //   const blockedResources = ["image", "stylesheet", "font", "media"];
-    //   blockedResources.includes(req.resourceType())
-    //     ? req.abort()
-    //     : req.continue();
-    // });
-
-    // Navigate to main page
-    await page.goto("https://www.ysscores.com/en/today_matches", {
-      waitUntil: "networkidle2",
-      timeout: 60000,
-    });
-
-    // Human-like interactions
-    // await humanInteraction(page);
-    await page.waitForSelector(".matches-wrapper", { timeout: 60000 });
-
-    // Extract matches
-    const matches = await page.evaluate(() => {
-      const baseURL = "https://www.ysscores.com";
-      return Array.from(document.querySelectorAll(".matches-wrapper"))
-        .slice(0, 1) // for test 2 matches only
-        .flatMap((championship) => {
-          const league = championship
-            .querySelector(".champ-title b")
-            ?.textContent.trim();
-          return Array.from(
-            championship.querySelectorAll(".ajax-match-item")
-          ).map((match) => ({
-            matchLink: new URL(match.getAttribute("href"), baseURL).href,
-            league: league || "Unknown League",
-            homeTeam:
-              match.querySelector(".first-team b")?.textContent.trim() ||
-              "Unknown Team",
-            awayTeam:
-              match.querySelector(".second-team b")?.textContent.trim() ||
-              "Unknown Team",
-            time:
-              match.querySelector(".match-date")?.textContent.trim() || "N/A",
-          }));
-        });
-    });
-
-    console.log(
-      `Found ${matches.length} matches. Starting detailed scraping...`
-    );
-
-    // Scrape match details
-    for (const [index, match] of matches.entries()) {
-      try {
-        console.log(`Processing match ${index + 1}/${matches.length}`);
-
-        // await humanInteraction(page);
-        await page.goto(match.matchLink, {
-          waitUntil: "networkidle2",
-          timeout: 45000,
-          referer: "https://www.ysscores.com/",
-        });
-
-        // Scrape details
-        match.details = await page.evaluate(() => {
-          const infoItems = Array.from(
-            document.querySelectorAll(".match-info-item")
-          ).map((el) => ({
-            title: el.querySelector(".title")?.textContent.trim() || "N/A",
-            content: el.querySelector(".content")?.textContent.trim() || "N/A",
-          }));
-
-          return {
-            matchInfo: infoItems.filter((item) => !item.title.includes("sub")),
-            channels: infoItems.filter((item) =>
-              item.title.includes("Channel")
-            ),
-            commentators: infoItems.filter((item) =>
-              item.title.includes("Commentator")
-            ),
-          };
-        });
-
-        await new Promise((resolve) => setTimeout(resolve, delay));
-      } catch (error) {
-        console.error(`Failed to scrape ${match.matchLink}:`, error.message);
-        match.details = { error: error.message };
-        await page.screenshot({ path: `error_${Date.now()}.png` });
-      }
-    }
-
-    // Save results
-    fs.writeFileSync("matches.json", JSON.stringify(matches, null, 2));
-    console.log("Data saved to matches.json");
-  } catch (error) {
-    console.error("Scraping failed:", error);
-    await page.screenshot({ path: `critical_error_${Date.now()}.png` });
-  } finally {
-    await browser.close();
-  }
-};
-
-// puppeteer.use(StealthPlugin());
-// const jsonData = {
-//   "time": "07:45 pm"
-// };
 
 function addHour(timeStr) {
   // Validate time format and values
@@ -219,13 +64,13 @@ const filterMatches = () => {
     // Filter matches
     const filteredMatches = matches.map((match) => {
       // Extract Match Info details
-      // const matchTime = addHour(
-      //   match.details?.matchInfo.find((info) => info.title === "Match Time")
-      //     ?.content || "N/A"
-      // );
-      const matchTime =
+      const matchTime = addHour(
         match.details?.matchInfo.find((info) => info.title === "Match Time")
-          ?.content || "N/A";
+          ?.content || "N/A"
+      );
+      // const matchTime =
+      //   match.details?.matchInfo.find((info) => info.title === "Match Time")
+      //     ?.content || "N/A";
       const matchDate =
         match.details?.matchInfo.find((info) => info.title === "Match Date")
           ?.content || "N/A";
@@ -453,7 +298,7 @@ const scrapeTodayMatches = async () => {
 };
 
 // Run the scraper
-// scrapeTodayMatches2();
+
 scrapeTodayMatches();
 
 // filterMatches();
