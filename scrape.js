@@ -2,7 +2,47 @@ const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 const fs = require("fs");
 
-puppeteer.use(StealthPlugin());
+// puppeteer.use(StealthPlugin());
+// const jsonData = {
+//   "time": "07:45 pm"
+// };
+
+function addHour(timeStr) {
+  // Validate time format and values
+  // console.log(timeStr);
+  const match = timeStr.match(/^(\d{1,2}):(\d{2})\s*(am|pm)$/i);
+  // if (!match) throw new Error("Invalid time format");
+  if (!match) return timeStr;
+
+  const [_, hours, minutes, period] = match;
+  const hoursInt = parseInt(hours, 10);
+  const minutesInt = parseInt(minutes, 10);
+
+  if (hoursInt < 1 || hoursInt > 12 || minutesInt < 0 || minutesInt > 59) {
+    return timeStr;
+  }
+
+  // Convert to 24-hour format
+  let hours24 = hoursInt;
+  if (period.toLowerCase() === "pm" && hours24 !== 12) {
+    hours24 += 12;
+  } else if (period.toLowerCase() === "am" && hours24 === 12) {
+    hours24 = 0;
+  }
+
+  // Add 1 hour
+  const date = new Date(1970, 0, 1, hours24, minutesInt);
+  date.setHours(date.getHours() + 1);
+
+  // Convert back to 12-hour format
+  const newHours24 = date.getHours();
+  const newMinutes = date.getMinutes().toString().padStart(2, "0");
+  const newPeriod = newHours24 >= 12 ? "PM" : "AM";
+  let newHours12 = newHours24 % 12;
+  newHours12 = newHours12 === 0 ? 12 : newHours12;
+
+  return `${newHours12}:${newMinutes} ${newPeriod}`;
+}
 
 const filterMatches = () => {
   const inputFilePath = "matches.json"; // Input file with all matches
@@ -16,9 +56,11 @@ const filterMatches = () => {
     // Filter matches
     const filteredMatches = matches.map((match) => {
       // Extract Match Info details
-      const matchTime =
+      const matchTime = addHour(
         match.details?.matchInfo.find((info) => info.title === "Match Time")
-          ?.content || "N/A";
+          ?.content || "N/A"
+      );
+
       const matchDate =
         match.details?.matchInfo.find((info) => info.title === "Match Date")
           ?.content || "N/A";
@@ -70,7 +112,7 @@ const filterMatches = () => {
       channelsAndCommentators = mergeChannelsAndCommentators(
         channelsAndCommentators
       );
-
+      // const timeplusOneh = addOneHour(matchTime);
       // Return the filtered match structure
       return {
         league: match.league,
@@ -80,8 +122,9 @@ const filterMatches = () => {
         homeTeamLogo: match.homeTeamLogo,
         awayTeamLogo: match.awayTeamLogo,
         // time: match.time,
-        matchDate,
         matchTime,
+        matchDate,
+
         channelsAndCommentators,
       };
     });
@@ -237,6 +280,8 @@ const scrapeTodayMatches = async () => {
   }
 };
 
-// scrapeTodayMatches();
+scrapeTodayMatches();
+
 // filterMatches();
+
 module.exports = scrapeTodayMatches;
