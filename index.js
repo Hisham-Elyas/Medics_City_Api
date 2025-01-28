@@ -4,7 +4,9 @@ const app = exprss();
 const morgan = require("morgan");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
-
+const scrapeTodayMatches = require("./scrape");
+const fs = require("fs");
+const path = require("path");
 const doctorRoutes = require("./api/routes/doctors");
 const appointmentRoutes = require("./api/routes/appointment");
 const drugsprodproductRoutes = require("./api/routes/drugsprod");
@@ -47,7 +49,31 @@ app.use("/chats", chatsRoutes);
 app.use("/hospitals", hospitalRoutes);
 app.use("/ambulance", ambulanceRoutes);
 app.use("/today_matches", today_matchesRoutes);
+app.get("/api/run-script", (req, res) => {
+  scrapeTodayMatches.scrapeTodayMatches();
+  res.json("Script executed successfully!");
+});
+app.get("/api/run-script/log", (req, res) => {
+  const filePath = path.join(__dirname, "./api/Logs/log.txt");
 
+  // try {
+  console.log(filePath);
+
+  // Read the Log file after scraping
+  fs.readFile(filePath, "utf-8", (err, data) => {
+    if (err) {
+      console.error("Error reading file:", err);
+      return res.status(500).json({ error: "Failed to read the file" });
+    }
+
+    try {
+      res.send(data);
+    } catch (parseErr) {
+      console.error("Error parsing JSON:", parseErr);
+      res.status(500).json({ error: "Invalid JSON format in the file" });
+    }
+  });
+});
 app.use((req, res, next) => {
   const error = new Error("Not Found 404 Home");
   error.status = 404;
